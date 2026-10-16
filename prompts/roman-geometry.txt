@@ -1,0 +1,7 @@
+Use case: stylized-concept
+Asset type: widescreen desktop wallpaper, landscape 16:9, ideally 3840x2160.
+Primary request: sophisticated geometric vaporwave Roman aesthetics on a heavily black background, with vivid color accents but absolutely no liquid color pools or swirls.
+Scene: vast matte near-black void (#020407), at least 75 percent of composition visually black and quiet. A sculptural Roman marble portrait bust and a few fluted Roman columns and architectural arch fragments arranged as a restrained surreal geometric assemblage. Angular stepped plinths, precise triangular and rectangular frames, subtle thin perspective grid confined to the lower portion. Clean architectural composition, ample dark negative space for desktop windows.
+Style: premium minimalist 3D art, atmospheric Roman antiquity meets geometric vaporwave. Marble remains shadowy charcoal with finely detailed stone texture and restrained neon edge lighting. Precise straight lines and hard-edged shapes.
+Color palette: Acid Empire theme: acid lime #B6FF00 as primary accent, electric cyan #00E5FF and hot pink #FF38A2 as smaller accents, on black #020407. Color appears in thin luminous geometric edges and selective rim lighting, not large glowing fields. Elegant, dark, controlled contrast.
+Constraints: no text, no logos, no watermarks, no UI. No swirls, fluids, liquid marble, smoke clouds, rainbow pools, organic color blobs, bright sky, or large pastel background. Wallpaper must stay genuinely dark and geometric.
